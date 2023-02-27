@@ -1,27 +1,24 @@
-# [boulangerie-pierre-de-epicodus](https://github.com/johnedisc/boulangerie-pierre-de-epicodus)
+# this is a template
 
 #### by [johnedisc](https://johnedisc.github.io)
 
-#### an excercise in making simple command line applications with TDD in MSTest
+#### an excercise in tomfoolery
 
 ## a C# project
 
 ## description
 
-* this is an epicodus project in our first week of using C# and .NET framework. it explores basic file structure, creating distinct classes, namespaces, fields, constructors, and methods.
-* to calculate pastry cost, i employed simple algebra which allowed for experimentation with data types--a concept new to people like myself coming from a weakly typed language.  
-* finally, i have experimented with testing in MSTest. it is a tedious but powerful tool, and i am interested to explore further what type of testing is possible here.
+* Lorem ipsum dolor sit amet, officia excepteur ex fugiat reprehenderit enim labore culpa sint ad nisi Lorem pariatur mollit ex esse exercitation amet. Nisi anim cupidatat excepteur officia. Reprehenderit nostrud nostrud ipsum Lorem est aliquip amet voluptate voluptate dolor minim nulla est proident. Nostrud officia pariatur ut officia. Sit irure elit esse ea nulla sunt ex occaecat reprehenderit commodo officia dolor Lorem duis laboris cupidatat officia voluptate. Culpa proident adipisicing id nulla nisi laboris ex in Lorem sunt duis officia eiusmod. Aliqua reprehenderit commodo ex non excepteur duis sunt velit enim. Voluptate laboris sint cupidatat ullamco ut ea consectetur et est culpa et culpa duis.
 
 ## setup/installation requirements
 
 * open a terminal on your machine
-* clone down the [repository from github](https://github.com/johnedisc/boulangerie-pierre-de-epicodus) inside the directory of your choosing
+* clone down the [repository from github](https://github.com/johnedisc/asp.net-template) inside the directory of your choosing
 ```bash
-git clone https://github.com/johnedisc/boulangerie-pierre-de-epicodus
+git clone https://github.com/johnedisc/asp.net-template
 ```
 * move into the directory with Program.cs
 ```bash
-cd BoulangeriePierreDeEpicodus/Boulangerie/
 ```
 * start application
 ```bash
