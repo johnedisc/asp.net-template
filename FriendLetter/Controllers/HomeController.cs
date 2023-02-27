@@ -9,6 +9,6 @@ namespace FriendLetter.Controllers
     [Route("/goodbye")]
     public string decirleAdios() { return "que le cuide"; }
     [Route("/")]
-    public string Letter() { return "la carta ahorita le pongo aca"; }
+    public ActionResult Letter() { return View(); }
   }
 }
